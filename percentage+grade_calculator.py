@@ -28,7 +28,7 @@ if percentage < 40:
     print("You have failed the exam!! \nBetter luck next time (keep working hard don't worry lil bro/sis)")
 
 elif percentage >= 40 and percentage < 50 :
-    print("Your grade is P \n Congratulations you passed!!")
+    print("Your grade is P (just passed ;p ) \n Congratulations you passed!!")
 
 elif percentage >= 50 and percentage < 60 :
     print("Your grade is D \n Congratulations you passed!!")
@@ -43,4 +43,4 @@ elif percentage >= 80 and percentage < 90 :
     print("Your grade is A \n Congratulations you passed!!")
 
 elif percentage >= 90 and percentage < 100 :
-    print("Your grade is O \n Congratulations you passed!!")
+    print("Your grade is O (outstanding ;D) \n Congratulations you passed!!")
